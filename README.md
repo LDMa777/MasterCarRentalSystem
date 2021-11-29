@@ -1,3 +1,3 @@
 # MasterCarRentalSystem
 
-fue realizado a mediados de 2019 en equipo
+It was carried out in mid-2019 as a team
